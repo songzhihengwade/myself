@@ -1,0 +1,2 @@
+# myself
+self
